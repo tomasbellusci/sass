@@ -1,0 +1,15 @@
+
+nav{
+    background-color: $colorBg;
+    border-top: solid 2px $colorPrimario;
+    border-bottom: solid 2px $colorPrimario;
+    ul{
+        list-style-type: none;
+        li{
+            font-size: 30px;
+            color: $colorFont;
+            position: relative;
+            top:5px;
+        }
+    }
+}

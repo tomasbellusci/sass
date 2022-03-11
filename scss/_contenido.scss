@@ -1,0 +1,36 @@
+div{
+    h1{
+        font-size: 120px;
+        color: $colorBg;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic;
+    }
+}
+
+div{
+    h2{
+        font-size: 60px;
+        color: $colorBg;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic;
+    }
+}
+
+div{
+    h3{
+        font-size: 40px;
+        color: $colorBg;
+        text-decoration: underline;
+        position: relative;
+        left: 140px;
+        top: 30px;
+    }
+}
+
+.img_size{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 50px;
+    border: solid 2px gray;
+}

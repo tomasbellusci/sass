@@ -1,0 +1,48 @@
+.logo {
+  height: 150px;
+  width: 150px; }
+
+nav {
+  background-color: black;
+  border-top: solid 2px orange;
+  border-bottom: solid 2px orange; }
+  nav ul {
+    list-style-type: none; }
+    nav ul li {
+      font-size: 30px;
+      color: white;
+      position: relative;
+      top: 5px; }
+
+div h1 {
+  font-size: 120px;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic; }
+
+div h2 {
+  font-size: 60px;
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic; }
+
+div h3 {
+  font-size: 40px;
+  color: black;
+  text-decoration: underline;
+  position: relative;
+  left: 140px;
+  top: 30px; }
+
+.img_size {
+  height: 300px;
+  width: 300px;
+  position: relative;
+  top: 50px;
+  border: solid 2px gray; }
+
+footer h3 {
+  color: black;
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: bold; }
